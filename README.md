@@ -1,4 +1,4 @@
-# 📊 Dashboard Comparativo de Cursos - Evolución de Horas por Bloques y Temas
+# 📊 Dashboard Comparativo de Cursos
 
 Este proyecto consiste en un dashboard interactivo desarrollado en **Excel**, que compara dos cursos diferentes en términos de horas dedicadas a cada tema y bloque de contenido. Está especialmente diseñado para ofrecer una visión clara y concisa de la evolución de ambos cursos, permitiendo detectar posibles desvíos y asegurar un equilibrio adecuado entre la teoría, la práctica, las correcciones y los proyectos.
 
@@ -17,7 +17,7 @@ El dashboard tiene como finalidad:
 
 ## 🔎 Filtros Interactivos
 El dashboard permite un análisis más profundo gracias a tres filtros clave:
-1. **Por curso**: Cambia entre los diferentes periodos o cursos para comparar su evolución.
+1. **Por curso**: Cambia entre los diferentes cursos para comparar su evolución.
 2. **Por tipo de contenido**: Filtra por teoría, práctica, corrección o proyecto para ver su dedicación específica.
 3. **Por bloque de temas**: Permite seleccionar temas como R, SQL, Visualización, Machine Learning, entre otros, y ver cómo varía el tiempo dedicado en cada uno.
 
@@ -40,7 +40,7 @@ Los datos representados en el dashboard son **ficticios**, generados para proteg
 - **Microsoft Excel**: El dashboard ha sido desarrollado exclusivamente en Excel, aprovechando su capacidad para gestionar datos y generar gráficos interactivos.
 
 ## 🔧 Proceso de Creación
-Durante el desarrollo del dashboard, uno de los principales desafíos fue asegurar que los **tiempos estuvieran correctamente cuadruplicados** para representar fielmente la evolución de los cursos. Además, se realizó un análisis profundo para decidir qué datos incluir y cómo mostrarlos de manera eficiente y visualmente atractiva.
+Durante el desarrollo del dashboard, uno de los principales desafíos fue asegurar que los **tiempos estuvieran correctamente representados** para mostrar fielmente la evolución de los cursos. Además, se realizó un análisis profundo para decidir qué datos incluir y cómo mostrarlos de manera eficiente y visualmente atractiva.
 
 ## 📥 Cómo Usarlo
 1. **Descarga** el archivo de Excel desde el repositorio.
