@@ -1,6 +1,9 @@
 # 📊 Dashboard Comparativo de Cursos
 
-Este proyecto consiste en un dashboard interactivo desarrollado en **Excel**, que compara dos cursos diferentes en términos de horas dedicadas a cada tema y bloque de contenido. Está especialmente diseñado para ofrecer una visión clara y concisa de la evolución de ambos cursos, permitiendo detectar posibles desvíos y asegurar un equilibrio adecuado entre la teoría, la práctica, las correcciones y los proyectos.
+Este proyecto consiste en un dashboard interactivo desarrollado en **Excel**, que compara dos cursos diferentes en términos de horas dedicadas a cada tema y bloque de contenido. Está especialmente diseñado para ofrecer una visión clara y concisa de la evolución de ambos cursos, permitiendo detectar posibles desvíos y asegurar un equilibrio adecuado entre la teoría, la práctica, las correcciones y los proyectos.  
+
+<img width="935" alt="pantallazo_dashboard_d" src="https://github.com/user-attachments/assets/92cb43ce-0ecb-40db-946a-aa0432663b3d">  
+
 
 ## 🚀 Objetivo del Dashboard
 El dashboard tiene como finalidad:
